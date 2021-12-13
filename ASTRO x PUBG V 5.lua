@@ -480,7 +480,6 @@ function setvalue(address,flags,value)  local refinevalues={}  refinevalues[1]={
 so=gg.getRangesList('libUE4.so')[1].start
 py=0x6BBF428
 setvalue(so+py,16,1.0193834e-38)
-gg.alert(" Protection Turned Off ")
 gg.toast("ᴀᴄᴛɪᴠᴀᴛᴇᴅ✔️")
 gg.alert("ᴘʀᴏᴛᴇᴄᴛɪᴏɴ ᴅᴇᴀᴄᴛɪᴠᴀᴛᴇᴅ ✔️")
 end
