@@ -1,5 +1,7 @@
 function setvalue(address,flags,value)  local refinevalues={}  refinevalues[1]={}  refinevalues[1].address=address  refinevalues[1].flags=flags  refinevalues[1].value=value  gg.setValues(refinevalues)  end 
 
+msg = os.date("        🔥 ᴀ ꜱ ᴛ ʀ ᴏ 一 ᴄʜᴇᴀᴛꜱ v ❹.❷ 🔥\n━━━━━━━━━━━━━━━━━━━━━━\n⚜️ ᴛᴇʟᴇɢʀᴀᴍ : @astroLX\n⚜️ ᴛɪᴍᴇ  【%I:%M%p %B%d】\n━━━━━━━━━━━━━━━━━━━━━━")
+
 function ASTRO()
 ASR = gg.choice({
 " 『 🔰 ᴇᴍᴜʟᴀᴛᴏʀ ʙᴘ    ",
