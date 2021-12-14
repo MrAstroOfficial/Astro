@@ -1,3 +1,0 @@
-# Astro Cheats
-From cheater for cheaters...
-version V5
