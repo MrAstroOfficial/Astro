@@ -13,7 +13,7 @@ ASR = gg.choice({
 " 『 💢 ʜᴇᴀᴅꜱʜᴏᴛ ",
 " 『 🔰 ᴇᴍᴜʟᴀᴛᴏʀ ʙᴘ ᴠ ᴛᴡᴏ ",
 " 『 💢 ᴀɪᴍʙᴏᴛ ",
-"                                                『    📛 ᴇ x ɪ ᴛ 📛    』 ",
+"                        『    📛 ᴇ x ɪ ᴛ 📛    』 ",
   }, nil, msg)
 if ASR == nil then else
 if ASR==1 then ASTRO1() end
