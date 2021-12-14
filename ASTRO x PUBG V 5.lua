@@ -305,7 +305,18 @@ setvalue(so+py,4,0)
 so=gg.getRangesList('libgcloud.so')[1].start
 py=0x2C65D8 
 setvalue(so+py,4,0)
-
+so=gg.getRangesList('libtersafe.so')[1].start
+py=0x90B09B0
+setvalue(so+py,32,67240961)
+so=gg.getRangesList('libtersafe.so')[1].start
+py=0x684644
+setvalue(so+py,32,67240961)
+so=gg.getRangesList('libtersafe.so')[1].start
+py=0x6889D4
+setvalue(so+py,32,67240961)
+so=gg.getRangesList('libtersafe.so')[1].start
+py=0x684648
+setvalue(so+py,32,67240961)
 function setvalue(address,flags,value) local tt={} tt[1]={} tt[1].address=address tt[1].flags=flags tt[1].value=value gg.setValues(tt) end
 so = gg.getRangesList("libgcloud.so")[1].start py = 0x2C634C setvalue(so + py, 32, 0) so = gg.getRangesList("libgcloud.so")[1].start py = 0x2C6354 setvalue(so + py, 32, 0) so = gg.getRangesList("libgcloud.so")[1].start py = 0x2C6368 setvalue(so + py, 32, 0) so = gg.getRangesList("libgcloud.so")[1].start py = 0x2C63B4 setvalue(so + py, 32, 0) so = gg.getRangesList("libgcloud.so")[1].start py = 0x2C634C setvalue(so + py, 32, 0) so = gg.getRangesList("libgcloud.so")[1].start py = 0x2C63D0 setvalue(so + py, 32, 0) so = gg.getRangesList("libgcloud.so")[1].start py = 0x2C63D8 setvalue(so + py, 32, 0) so = gg.getRangesList("libgcloud.so")[1].start py = 0x2C63F4 setvalue(so + py, 32, 0) so = gg.getRangesList("libgcloud.so")[1].start py = 0x2C65B0 setvalue(so + py, 32, 0) so = gg.getRangesList("libgcloud.so")[1].start py = 0x2C65B4 setvalue(so + py, 32, 0) so = gg.getRangesList("libgcloud.so")[1].start py = 0x2C6580 setvalue(so + py, 32, 0) so = gg.getRangesList("libgcloud.so")[1].start py = 0x2C6E7C setvalue(so + py, 32, 0) so = gg.getRangesList("libgcloud.so")[1].start py = 0x2C6E88 setvalue(so + py, 32, 0) so = gg.getRangesList("libgcloud.so")[1].start py = 0x2C6E90 setvalue(so + py, 32, 0) so = gg.getRangesList("libgcloud.so")[1].start py = 0x2C6E98 setvalue(so + py, 32, 0) so = gg.getRangesList("libgcloud.so")[1].start py = 0x2C7330 setvalue(so + py, 32, 0) so = gg.getRangesList("libgcloud.so")[1].start py = 0x2C7348 setvalue(so + py, 32, 0) so = gg.getRangesList("libgcloud.so")[1].start py = 0x2C7614 setvalue(so + py, 32, 0) so = gg.getRangesList("libgcloud.so")[1].start py = 0x2C7670 setvalue(so + py, 32, 0) so = gg.getRangesList("libgcloud.so")[1].start py = 0x2C76A8 setvalue(so + py, 32, 0) so = gg.getRangesList("libgcloud.so")[1].start py = 0x2C7748 setvalue(so + py, 32, 0) so = gg.getRangesList("libgcloud.so")[1].start py = 0x2C76E4 setvalue(so + py, 32, 0) so = gg.getRangesList("libgcloud.so")[1].start py = 0x2C7800 setvalue(so + py, 32, 0) so = gg.getRangesList("libgcloud.so")[1].start py = 0x2C7868 setvalue(so + py, 32, 0) so = gg.getRangesList("libgcloud.so")[1].start py = 0x2C7858 setvalue(so + py, 32, 0) so = gg.getRangesList("libgcloud.so")[1].start py = 0x2C82BC setvalue(so + py, 32, 0) so = gg.getRangesList("libgcloud.so")[1].start py = 0x2C82C0 setvalue(so + py, 32, 0) so = gg.getRangesList("libgcloud.so")[1].start py = 0x2C82C4 setvalue(so + py, 32, 0) so = gg.getRangesList("libgcloud.so")[1].start py = 0x2C8308 setvalue(so + py, 32, 0) so = gg.getRangesList("libgcloud.so")[1].start py = 0x2C830C setvalue(so + py, 32, 0) so = gg.getRangesList("libgcloud.so")[1].start py = 0x2C8310 setvalue(so + py, 32, 0) so = gg.getRangesList("libgcloud.so")[1].start py = 0x2F60BC setvalue(so + py, 32, 0) so = gg.getRangesList("libgcloud.so")[1].start py = 0x2F60C0 setvalue(so + py, 32, 0) so = gg.getRangesList("libgcloud.so")[1].start py = 0x2F60C4 setvalue(so + py, 32, 0) so = gg.getRangesList("libgcloud.so")[1].start py = 0x31C2F0 setvalue(so + py, 32, 0) so = gg.getRangesList("libgcloud.so")[1].start py = 0x31C194 setvalue(so + py, 32, 0) so = gg.getRangesList("libgcloud.so")[1].start py = 0x31C1D4 setvalue(so + py, 32, 0)
 function setvalue(address,flags,value)  local refinevalues={}  refinevalues[1]={}  refinevalues[1].address=address  refinevalues[1].flags=flags  refinevalues[1].value=value  gg.setValues(refinevalues)  end
@@ -322,6 +333,18 @@ setvalue(W+m,16,-2.0291021e20)
 end
 
 function ASTRO2()
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC | gg.REGION_OTHER)
+gg.searchNumber("578351706144768;564058054983680")
+gg.refineNumber("578351706144768")
+gg.getResults(50000, nil, nil, nil, nil, nil, nil, nil, nil)
+gg.editAll("288516253469900800", gg.TYPE_QWORD)
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC | gg.REGION_OTHER)
+gg.searchNumber("620137442967552;303473799200768")
+gg.refineNumber("620137442967552")
+gg.getResults(50000, nil, nil, nil, nil, nil, nil, nil, nil)
+gg.editAll("288516253469900800", gg.TYPE_QWORD)
 gg.clearResults()
 gg.setRanges(gg.REGION_C_ALLOC | gg.REGION_OTHER)
 gg.searchNumber("133378;133890", gg.TYPE_DWORD)
