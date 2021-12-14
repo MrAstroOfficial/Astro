@@ -9,6 +9,7 @@ ASR = gg.choice({
 " 『 ✔️ ꜱʀᴄ ᴏɴ  ",
 " 『 ❌ ꜱʀᴄ ᴏꜰꜰ   ",
 " 『 💢 ꜱᴀꜰᴇ ᴍᴀɢɪᴄ ",
+" 『 💢 ɪᴘᴀᴅ ᴠɪᴇᴡ ",
 "                                                『    📛 ᴇ x ɪ ᴛ 📛    』 ",
   }, nil, msg)
 if ASR == nil then else
@@ -17,7 +18,8 @@ if ASR==2 then ASTRO2() end
 if ASR==3 then ASTRO3() end
 if ASR==4 then ASTRO4() end
 if ASR==5 then ASTRO5() end
-if ASR==6 then EXIT() end
+if ASR==6 then ASTRO6() end
+if ASR==7 then EXIT() end
 
 end 
 PUBGMH = -1
@@ -537,6 +539,13 @@ os.remove("/sdcard/Android/data/com.tencent.ig/cache/GCloud.ini")
 gg.alert("ꜱᴀꜰᴇ ᴍᴀɢɪᴄ ᴀᴄᴛɪᴠᴀᴛᴇᴅ ✔️")
 end
 
+function ASTRO6()
+function setvalue(address,flags,value)  local refinevalues={}  refinevalues[1]={}  refinevalues[1].address=address  refinevalues[1].flags=flags  refinevalues[1].value=value  gg.setValues(refinevalues)  end 
+so=gg.getRangesList('libUE4.so')[1].start
+py=0x3DB3C60
+setvalue(so+py,16,285)
+gg.alert("ɪᴘᴀᴅ ᴀᴄᴛɪᴠᴀᴛᴇᴅ ✔️")
+end
 
 function EXIT()
 gg.copyText("@astroLX")
