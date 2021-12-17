@@ -567,6 +567,8 @@ end
     
 
 function ASTRO8() 
+gg.processPause()
+gg.alert('Logo BP')
 function setvalue(address,flags,value)  local refinevalues={}  refinevalues[1]={}  refinevalues[1].address=address  refinevalues[1].flags=flags  refinevalues[1].value=value  gg.setValues(refinevalues)  end 
 so=gg.getRangesList('libgcloud.so')[1].start
 py=0x2C630C  
