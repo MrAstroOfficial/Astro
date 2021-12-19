@@ -925,7 +925,7 @@ function VAMPY10()
 
 function EXIT()
 gg.copyText("@bravo6ixx")
-print("━━━━━━━━━━━━━━━━━━━━━\n          🔥 ᴀ ꜱ ᴛ ʀ ᴏ • ᴄʜᴇᴀᴛꜱ v ❹.❷ 🔥             \n ━━━━━━━━━━━━━━━━━━━━━")
+print("━━━━━━━━━━━━━━━━━━━━━\n          🔥 ᴍᴀᴅᴇ ʙʏ  ᴠ ᴀ ᴍ ᴘ ʏ 🔥             \n ━━━━━━━━━━━━━━━━━━━━━")
 gg.skipRestoreState()
 os.exit()
 gg.setVisible(true)
