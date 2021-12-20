@@ -1,4 +1,4 @@
-gg.copyText('url') 
+gg.copyText('http://nova6.blogfa.com/page/freekey') 
 gg.alert("  Username Link Copied", "Go To Browser And Click -","CTRL - V ")
 
 local Passwords = {"1"}
