@@ -18,14 +18,14 @@ msg = os.date("        🔥 ᴠ ᴀ ᴍ ᴘ ʏ 一 ꜰᴏʀ ɢɢ ᴜꜱᴇʀꜱ 
 
 function VAMPY()
 ASR = gg.choice({
-" 『 🔰 ᴇᴍᴜʟᴀᴛᴏʀ ʙᴘ    ",
+" 『 🔰 ᴇᴍᴜʟᴀᴛᴏʀ ʙᴘ x-ᴀ  ",
 " 『 🛡 ʟᴏʙʙʏ ᴀɴᴛɪʙᴀɴ   ",
 " 『 ✔️ ꜱʀᴄ ᴏɴ  ",
 " 『 ❌ ꜱʀᴄ ᴏꜰꜰ   ",
 " 『 💢 ꜱᴀꜰᴇ ᴍᴀɢɪᴄ ",
 " 『 💢 ɪᴘᴀᴅ ᴠɪᴇᴡ ",
 " 『 💢 ʜᴇᴀᴅꜱʜᴏᴛ ",
-" 『 🔰 ᴇᴍᴜʟᴀᴛᴏʀ ʙᴘ ᴠ ᴛᴡᴏ ",
+" 『 🔰 ᴇᴍᴜʟᴀᴛᴏʀ ʙᴘ ᴛᴇʀꜱᴀꜰᴇ ",
 " 『 💢 ᴀɪᴍʙᴏᴛ ",
 "                        『    📛 ᴇ x ɪ ᴛ 📛    』 ",
   }, nil, msg)
@@ -582,238 +582,997 @@ end
 
 function VAMPY8()
 function setvalue(address,flags,value)  local refinevalues={}  refinevalues[1]={}  refinevalues[1].address=address  refinevalues[1].flags=flags  refinevalues[1].value=value  gg.setValues(refinevalues)  end 
-gg.processPause()
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 57196
-setvalue(so + py, 8, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 57204
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 78172
-setvalue(so + py, 2, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 78174
-setvalue(so + py, 2, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 78176
-setvalue(so + py, 2, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 78178
-setvalue(so + py, 2, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 78180
-setvalue(so + py, 2, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 78182
-setvalue(so + py, 2, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 78184
-setvalue(so + py, 2, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 78186
-setvalue(so + py, 2, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 78188
-setvalue(so + py, 2, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 78190
-setvalue(so + py, 2, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 78192
-setvalue(so + py, 2, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 78194
-setvalue(so + py, 2, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 78196
-setvalue(so + py, 2, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 78198
-setvalue(so + py, 2, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 78200
-setvalue(so + py, 2, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 78202
-setvalue(so + py, 2, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 78204
-setvalue(so + py, 2, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 78206
-setvalue(so + py, 2, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 94190
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 94280
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 582074
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 582076
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 582182
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 582184
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 582192
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 582196
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 3293158
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 3304539
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 1164
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 80250
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 80264
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 80278
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 80290
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 80298
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 80426
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 80458
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 80484
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 80500
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 80508
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 80514
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 80522
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 80564
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 80578
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 80588
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 80636
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 80646
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 80684
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 80696
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 80706
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 80716
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 80796
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 80806
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 80826
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 80856
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 80872
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 80908
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 80922
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 81008
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 81030
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 81050
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 81066
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 81082
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 81108
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 81118
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 81126
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 81146
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 81164
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 81210
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 81238
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 81254
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 81300
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 81310
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 81362
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 81390
-setvalue(so + py, 4, 0)
-so = gg.getRangesList("libtersafe.so")[1].start
-py = 81416
-setvalue(so + py, 4, 0)
+    gg.processPause()
+    so = gg.getRangesList("libUE4.so")[1].start
+    py = 40118700
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libUE4.so")[1].start
+    py = 40119808
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 78716
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 186512
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 186576
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 191664
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 229908
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 229910
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 229912
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 229914
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 229916
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 229918
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 229920
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 229922
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 229924
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 229926
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 229928
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 229930
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 229932
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 229934
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 229936
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 229938
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 229940
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 229942
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 229944
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 229948
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 229950
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 229954
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 229956
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 229958
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 229962
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 229964
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 229966
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 229968
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 229970
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 229972
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 229974
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 229976
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 229978
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 229980
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 229982
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 229984
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 229986
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 229988
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 229990
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 229992
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 229994
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 229998
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230002
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230004
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230006
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230008
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230010
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230012
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230014
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230016
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230018
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230020
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230022
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230024
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230026
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230028
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230030
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230032
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230034
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230036
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230040
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230042
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230044
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230046
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230048
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230050
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230052
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230054
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230056
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230058
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230060
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230062
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230064
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230066
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230068
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230070
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230072
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230076
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230078
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230080
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230082
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230084
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230086
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230088
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230090
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230092
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230094
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230096
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230098
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230100
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230102
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230104
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230106
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230108
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230110
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230112
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230114
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230116
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230118
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230120
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230122
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230124
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230126
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230128
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230130
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230134
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230136
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230140
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230142
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230144
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230146
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230148
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230152
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230154
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230156
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230158
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230160
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230162
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230164
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230166
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230168
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230170
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230172
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230174
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230176
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230178
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230180
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230182
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230184
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230186
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230188
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230190
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230194
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230196
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230198
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230200
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 230202
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 77376
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 77344
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 63776
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 63900
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 3555920
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144584
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144586
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144588
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144590
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144592
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144594
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144596
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144598
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144600
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144602
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144604
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144606
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144608
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144610
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144612
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144614
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144616
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144618
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144620
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144622
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144624
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144626
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144628
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144630
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144634
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144636
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144638
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144640
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144642
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144644
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144646
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144648
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144650
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144652
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144654
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144656
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144658
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144660
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144662
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144664
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144666
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144668
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144670
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144672
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144674
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144678
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144682
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144684
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144686
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144688
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144690
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144692
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144694
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144696
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144698
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144700
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144702
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144704
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144706
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 144708
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 76770
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 160208
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 160212
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 160216
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 160220
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 160224
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 160228
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 160232
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 160312
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 160316
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 160318
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 160320
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 160322
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91284
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91286
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91288
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91290
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91292
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91294
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91296
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91298
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91302
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91304
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91308
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91310
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91312
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91314
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91316
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91318
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91320
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91324
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91326
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91330
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91332
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91334
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91336
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91338
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91340
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91342
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91344
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91346
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91348
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91350
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91352
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91354
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91358
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91360
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91362
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91366
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91368
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91372
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91374
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91376
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91378
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91380
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91382
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91384
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91386
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91388
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91390
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91392
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91394
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91396
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91398
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91400
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91404
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91406
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91408
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91412
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91414
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91416
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91418
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91420
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91422
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91424
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91426
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91428
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91430
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91432
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91434
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91436
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91438
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91440
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91442
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91444
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91446
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91448
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91450
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91454
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91456
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91458
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91460
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91462
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91464
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91466
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91468
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91470
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91472
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91474
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91476
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91478
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91480
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91482
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91486
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91488
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91490
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91494
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91498
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91502
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91504
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91506
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91510
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91512
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91516
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91518
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91520
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91522
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 91524
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 92438
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 92206
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 94940
+    setvalue(so + py, 4, 0)
+    so = gg.getRangesList("libtersafe.so")[1].start
+    py = 94910
+    setvalue(so + py, 4, 0)
 function setvalue(address,flags,value)  local refinevalues={}  refinevalues[1]={}  refinevalues[1].address=address  refinevalues[1].flags=flags  refinevalues[1].value=value  gg.setValues(refinevalues)  end 
 so=gg.getRangesList('libgcloud.so')[1].start
 py=0x2C630C  
