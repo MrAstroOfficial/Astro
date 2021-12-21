@@ -4255,7 +4255,7 @@ function CHEAT()
        ITEM17()
     end
     if MN8[18] == true then
-      ITEM17()
+      ITEM18()
    end
    if MN8[19] == true then
      HOME()
