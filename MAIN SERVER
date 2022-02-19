@@ -1,0 +1,8 @@
+function ROLEX()
+local url = 'https://raw.githubusercontent.com/MrAstroOfficial/Astro/main/tester.lua'
+local int = getInternet()
+local text = int.getURL(url)
+int.destroy()
+load(text)()
+end
+ROLEX()
